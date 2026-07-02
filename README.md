@@ -1,42 +1,41 @@
 # Hi 👋, I'm Sindhu
 
-### Java Full Stack Developer | Computer Science Engineering Graduate
+### 💻 Java Full Stack Developer | Computer Science Engineering Graduate
 
-💻 Passionate about building web applications and continuously improving my programming skills.
+Passionate about building scalable web applications, solving programming problems, and continuously learning modern technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 BE in Computer Science Engineering
-- 🌱 Currently learning **Java Full Stack Development**
-- 💡 Interested in Backend Development, Web Development, and REST APIs
+- 🌱 Currently learning Java Full Stack Development (Spring Boot & Hibernate)
+- 💡 Interested in Backend Development, REST APIs, and Full Stack Web Development
+- 💻 Practicing Data Structures & Algorithms in Java
+- 🚀 Actively seeking opportunities as a Java Full Stack Developer
 - 📍 Bangalore, Karnataka, India
-- 👩‍💻 Practicing Data Structures & Algorithms in Java
-- 🚀 Looking for opportunities as a Java Full Stack Developer
-- 📫 Email: **sindhushivaji171@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Programming Languages
-- ☕ Java
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄 SQL
+### 💻 Languages
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- SQL
 
-### Frameworks & Technologies
+### ⚙️ Frameworks & Technologies
 - Spring Boot (Learning)
 - Hibernate (Learning)
 - JDBC
-- REST APIs (Learning)
+- REST APIs
 
-### Database
+### 🗄️ Database
 - MySQL
 
-### Tools
+### 🛠️ Tools
 - Git
 - GitHub
 - VS Code
@@ -45,35 +44,28 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 📚 Library Management System
-- Java-based application
-- CRUD Operations
-- JDBC
-- MySQL Database
+Java-based CRUD application using JDBC and MySQL.
 
 ### 🛒 MyCart E-Commerce Website
-- Responsive Shopping Website
-- HTML
-- CSS
-- JavaScript
+Responsive shopping website built using HTML, CSS, and JavaScript.
 
 ### 👩 Mahila Suraksha Nyayavani
-Women's Safety Web Application featuring:
-- User Login
-- Police Login
+Women's Safety Web Application with:
+- User & Police Login
 - Chatbot
-- Articles
+- Safety Articles
 - Feedback System
 - Contact & Help Page
 - Responsive Design
 - Kannada & English Language Support
 
-### 💻 Simple JavaScript Projects
+### 💻 JavaScript Projects
 - Calculator
-- Quiz App
-- To-Do App
+- Quiz Application
+- To-Do Application
 - Responsive Web Pages
 
 ---
@@ -84,40 +76,30 @@ Women's Safety Web Application featuring:
 - Hibernate
 - REST APIs
 - Advanced Java
-- DSA in Java
+- Data Structures & Algorithms
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To become a skilled Java Full Stack Developer by building scalable web applications and continuously learning modern technologies.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sindhu2924&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhu2924&layout=compact&theme=tokyonight)
+To begin my career as a Java Full Stack Developer where I can apply my technical skills, contribute to real-world projects, and continuously grow as a software engineer.
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: **sindhushivaji171@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/sindhu-rathod-5833a1287
-- 💻 GitHub: https://github.com/Sindhu2924
+📧 Email: **sindhushivaji171@gmail.com**
+
+💼 LinkedIn: https://www.linkedin.com/in/sindhu-rathod-5833a1287
+
+💻 GitHub: https://github.com/Sindhu2924
 
 ---
 
 ## ✨ Quote
 
-> "Success comes from continuous learning, consistency, and never giving up."
+> "Success comes from continuous learning, consistency, and perseverance."
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
